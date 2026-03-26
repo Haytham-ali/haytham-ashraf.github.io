@@ -15,10 +15,10 @@ I am happy to discuss research collaborations, academic opportunities, and relat
 
 ## Academic Profiles
 
-- **Google Scholar:** https://scholar.google.com/  
-- **ORCID:** https://orcid.org/0000-0002-7623-0887  
-- **GitHub:** https://github.com/Haytham-ali  
-- **LinkedIn:** https://www.linkedin.com/  
+- Google Scholar  
+- ORCID: 0000-0002-7623-0887  
+- GitHub: Haytham-ali  
+- LinkedIn  
 
 ---
 
