@@ -65,16 +65,3 @@ redirect_from:
 
   * <strong>Distributed Systems Scalability/Performance:</strong> The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability. -->
 
-<span style="font-size:20px;">Useful links</span>
-======
-  * Computer Security Conference Ranking and Statistic
-     * <a href= "http://jianying.space/conference-ranking.html">Conference-ranking</a>
-     * <a href="http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm">Conference-stats</a>
-
-  * System and Security Conference Deadline
-     * <a href="https://cs-deadlines.cin.ufpe.br/"> CS Conference Deadlines </a>
-     * <a href="https://dants.github.io/index_sysvenues_deadline.html"> System Conference Deadlines </a>
-     * <a href= "https://sec-deadlines.github.io/">Security Conference Deadlines</a>
-
-***
-<span style="font-style: italic; color:blue;"> Science serves as the compass guiding humanity's journey toward enlightenment, illuminating the path of progress with the light of empirical discovery.</span>
