@@ -12,7 +12,7 @@ main:
     url: /grants/
 
   - title: "CV"
-    url: /CV.pdf
+    url: /CV/
 
   - title: "Contact"
     url: /contact/
