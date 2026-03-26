@@ -7,18 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-<span style="text-align: justify;"></span>
-
-
- <span style="text-align: justify;"></span>
-
-<ul style="text-align: justify;">
+<p style="text-align: justify;">
 I am currently a JSPS Postdoctoral Research Fellow at <a href="https://www.tsukuba.ac.jp/">University of Tsukuba</a>, Japan, working at the intersection of artificial intelligence and medical imaging. My research focuses on computational imaging, inverse problems, and deep learning, with an emphasis on developing robust and interpretable AI systems for medical data analysis.
+</p>
 
-I received my Ph.D. in Engineering from the University of Tsukuba under the supervision of Prof. Hiroyuki Kudo, where I worked on mathematical modeling and reconstruction methods for sparse-view and limited-angle computed tomography (CT). Prior to that, I obtained my M.Sc. and B.Sc. in Mathematics from Sohag University, Egypt.
+<p style="text-align: justify;">
+I received my Ph.D. in Engineering from the University of Tsukuba under the supervision of Prof. Hiroyuki Kudo, where I worked on mathematical modeling and reconstruction methods for sparse-view and limited-angle computed tomography (CT). Prior to that, I obtained my M.Sc. and B.Sc. in Mathematics from <a href="https://www.sohag-univ.edu.eg/ar/home-2/">Sohag University</a>, Egypt.
+</p>
 
-My current research focuses on AI for Medical image reconstruction and analysis under limited or imperfect data conditions. I work on physics-guided deep learning, generative modeling, and inverse problems, aiming to combine data-driven approaches with domain knowledge. More broadly, I am interested in multimodal learning and trustworthy AI for healthcare, with the goal of developing reliable and clinically deployable decision-support systems. My work emphasizes robustness, generalization, and real-world clinical impact.
-</ul>
+<p style="text-align: justify;">
+My current research focuses on AI-driven medical image reconstruction and analysis under limited or imperfect data conditions. I work on physics-guided deep learning, generative modeling, and inverse problems, aiming to combine data-driven approaches with domain knowledge.
+</p>
+
+<p style="text-align: justify;">
+More broadly, I am interested in multimodal learning and trustworthy AI for healthcare, with the goal of developing reliable and clinically deployable decision-support systems. My work emphasizes robustness, generalization, and real-world clinical impact.
+</p>
 
 <span style="font-size:20px;">News!</span>
 ======
@@ -40,26 +43,4 @@ My current research focuses on AI for Medical image reconstruction and analysis 
   * [ICDE2023] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "Radar: Reactive concept drift management with robust variational inference for evolving iot data streams."</span>
 
  
-<!-- <span style="font-size:20px;">Research Topics/Interests</span>
-======
-
-<span style=" text-align: justify;"> 
-
-  * <strong>Systems Security in Decentraliased and Cloud/Edge Platforms</strong>
-    <ul style=" text-align: justify;"> My research focuses on strengthening the security of decentralised and cloud/edge-based systems through anomaly detection that adapts to concept drift and adversarial behaviours. A key strand of this work extends to blockchain forensics, where anomaly detection techniques are applied to <span style="font-style: bold"> identify scams, fraud </span>, and other illicit activities embedded in transaction networks. By combining adaptive detection with system-level monitoring, my aim is to enhance trust and resilience in large-scale, dynamic infrastructures.</ul>
-
-  * <strong>Distributed Systems Reliability and Performance</strong>
-      <ul style=" text-align: justify;"> I investigate how distributed systems maintain reliability and scalability in the presence of faults and adversarial threats. My research focuses on (1) consensus protocols for blockchain and distributed environments that must balance security, throughput, and energy efficiency, while also enabling forensic visibility to support fraud and scam detection; and (2) fault-tolerance mechanisms for stream-processing frameworks that ensure consistent low-latency analytics under failures.</ul> -->
-
-<!--   
-<span style="font-size:20px;">Current Projects</span>
-======
-
-<span style=" text-align: justify;">  
- 
-  * <strong>CRC-P Project:</strong> Fraud detection within digital payment systems, more specifically cryptocurreny transactions. Our project aims to develop a digital platform consisting of novel anti-fraud and anti-money laundering techniques, to align Crypto transactions with traditional payment options such as credit cards.  
-
-  * <strong>Cryptocurrency scams:</strong> the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
-
-  * <strong>Distributed Systems Scalability/Performance:</strong> The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability. -->
 
