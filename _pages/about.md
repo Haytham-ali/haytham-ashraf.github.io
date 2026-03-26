@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am currently a JSPS Postdoctoral Research Fellow at <a href="https://www.tsukuba.ac.jp/">University of Tsukuba</a>, Japan, working at the intersection of artificial intelligence and medical imaging. I received my Ph.D. in Engineering (09/2023) from the University of Tsukuba under the supervision of Prof. [Hiroyuki Kudo](https://trios.tsukuba.ac.jp/researcher/0000000957), where I worked on mathematical modeling and reconstruction methods for sparse-view and limited-angle computed tomography (CT). Prior to that, I obtained my M.Sc. and B.Sc. in Mathematics from <a href="https://www.sohag-univ.edu.eg/ar/home-2/">Sohag University</a>, Egypt.
+I am currently a JSPS Postdoctoral Research Fellow at <a href="https://www.tsukuba.ac.jp/">University of Tsukuba</a>, Japan, working at the intersection of artificial intelligence and medical imaging. I received my Ph.D. in Engineering (09/2023) from the University of Tsukuba under the supervision of Prof. <a href="https://trios.tsukuba.ac.jp/researcher/0000000957">Hiroyuki Kudo</a>, where I worked on mathematical modeling and reconstruction methods for sparse-view and limited-angle computed tomography (CT). Prior to that, I obtained my M.Sc. and B.Sc. in Mathematics from <a href="https://www.sohag-univ.edu.eg/ar/home-2/">Sohag University</a>, Egypt.
 </p>
 
 <p style="text-align: justify;">
