@@ -10,7 +10,15 @@ redirect_from:
 <span style="text-align: justify;"></span>
 
 
-  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was postdoctoral research fellow at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. My research spans systems security, reliability, and scalability, with recent work focusing on anomaly detection and blockchain forensics. [See my research focus <a href="https://nasrin-sohrabi.github.io/research/"> here</a>].</ul> 
+ <span style="text-align: justify;"></span>
+
+<ul style="text-align: justify;">
+I am currently a JSPS Postdoctoral Research Fellow at <a href="https://www.tsukuba.ac.jp/">University of Tsukuba</a>, Japan, working at the intersection of artificial intelligence and medical imaging. My research focuses on computational imaging, inverse problems, and deep learning, with an emphasis on developing robust and interpretable AI systems for medical data analysis.
+
+I received my Ph.D. in Engineering from the University of Tsukuba under the supervision of Prof. Hiroyuki Kudo, where I worked on mathematical modeling and reconstruction methods for sparse-view and limited-angle computed tomography (CT). Prior to that, I obtained my M.Sc. and B.Sc. in Mathematics from Sohag University, Egypt.
+
+My current work integrates physics-based modeling with generative and attention-based deep learning approaches to improve medical image reconstruction and analysis under limited or imperfect data conditions. More broadly, I am interested in multimodal learning and trustworthy AI for healthcare, aiming to develop clinically deployable decision-support systems.
+</ul>
 
 <span style="font-size:20px;">News!</span>
 ======
