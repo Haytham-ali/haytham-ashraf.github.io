@@ -17,7 +17,7 @@ I am currently a JSPS Postdoctoral Research Fellow at <a href="https://www.tsuku
 
 I received my Ph.D. in Engineering from the University of Tsukuba under the supervision of Prof. Hiroyuki Kudo, where I worked on mathematical modeling and reconstruction methods for sparse-view and limited-angle computed tomography (CT). Prior to that, I obtained my M.Sc. and B.Sc. in Mathematics from Sohag University, Egypt.
 
-My current work integrates physics-based modeling with generative and attention-based deep learning approaches to improve medical image reconstruction and analysis under limited or imperfect data conditions. More broadly, I am interested in multimodal learning and trustworthy AI for healthcare, aiming to develop clinically deployable decision-support systems.
+My current research focuses on AI for Medical image reconstruction and analysis under limited or imperfect data conditions. I work on physics-guided deep learning, generative modeling, and inverse problems, aiming to combine data-driven approaches with domain knowledge. More broadly, I am interested in multimodal learning and trustworthy AI for healthcare, with the goal of developing reliable and clinically deployable decision-support systems. My work emphasizes robustness, generalization, and real-world clinical impact.
 </ul>
 
 <span style="font-size:20px;">News!</span>
