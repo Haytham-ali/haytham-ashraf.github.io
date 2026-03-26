@@ -19,20 +19,17 @@ My current research focuses on AI-driven medical image reconstruction and analys
 ======
 <span style=" text-align: justify;"> 
   
-  * [TIFS] [Top journal, A*] - <span style="font-style: italic;">"Intelligent Edge Data Integrity Verification with Dynamic Unreliable Data Replica Selection" [2025]</span>
+  * 
 
-  * Call For Papers, <a href="https://sites.google.com/view/aisc2026">AISC 2026 Conference</a> 
+  * 
+  * 
 
-  * [ITNNLS] [Top Ranked Journal Q1] - paper published - <span style="font-style: italic;">"DSPFL: A Deep-Layer Sign Sharing Personalized Federated Learning Scheme for Mitigating Poisoning Attacks" [2025]</span> 
+  * 
 
-  * [ARC LP] -- Our team has been awarded an ARC Linkage Project, one of the most prestigious research grants in Australia. This funding will support collaborative research with DEAKIN, RMIT, UNSW and our industry partner to tackle real-world challenges and drive meaningful impact.
-    <a href= "https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/277">ARC LP</a>
+  * 
 
-  * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
-
-  * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
-
-  * [ICDE2023] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "Radar: Reactive concept drift management with robust variational inference for evolving iot data streams."</span>
+  *
+  *
 
  
 
