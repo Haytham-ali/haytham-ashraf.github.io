@@ -5,7 +5,74 @@ permalink: /research/
 author_profile: true
 ---
 
-               
+<p style="text-align: justify;">
+My research sits at the intersection of <strong>physics-guided deep learning</strong>, <strong>generative modeling</strong>, and <strong>computational inverse problems</strong>, with a focus on medical image reconstruction under challenging acquisition conditions — sparse measurements, limited angular coverage, and noisy data. I develop AI systems that are not only data-driven but also grounded in the physics of imaging, aiming for models that generalize reliably to real clinical settings.
+</p>
 
-    
+---
 
+## Research Directions
+
+---
+
+### 🔬 Sparse-View CT Reconstruction
+
+<p style="text-align: justify;">
+Reducing X-ray dose in CT scanning requires reconstructing diagnostic-quality images from far fewer projections than standard protocols. My work in this direction focuses on developing <strong>physics-constrained generative adversarial networks</strong> that enforce sinogram-domain data consistency while learning powerful image-domain priors. Key contributions include dual-stage architectures with adaptive gating mechanisms and physics-informed attention modules that guide reconstruction toward anatomically faithful outputs.
+</p>
+
+**Representative works:**
+- *PIDA-GAN: Physics-Informed Dual-Stage Attention GAN with Data Consistency for Sparse-View CT Reconstruction* — Under Review, 2026.
+- *PCDS-GAN: Physics-Constrained Dual-Stage Generative Model with Adaptive Gating for Ultra Sparse-View CT Reconstruction* — IEEE ISBI 2026 **(Oral)**.
+- *Novel Dual-Stage GAN for High-Fidelity CT Image Reconstruction from Sparse-View CT* — JAMIT 2025.
+
+---
+
+### 🔬 Limited-Angle CT Reconstruction
+
+<p style="text-align: justify;">
+Limited-angle CT arises in interventional imaging, security screening, and radiation therapy planning, where the acquisition arc is severely restricted. Missing angular data introduces severe streaking artifacts and structural ambiguities. I address this through <strong>frequency-domain learning</strong> and <strong>locality-guided attention mechanisms</strong> that selectively recover high-frequency structures lost due to the incomplete angular range, combined with GAN-based frameworks trained on physics-consistent objectives.
+</p>
+
+**Representative works:**
+- *FLoAT-GAN: Frequency- and Locality-Guided Attention for Limited-Angle CT Reconstruction* — AAAI-26 W3PHIAI Workshop **(Long Presentation)**.
+- *Multi-Frequency Domains with Modified U-Net for Limited-Angle CT* — IEEE ISBI 2026 **(Poster, Best Presentation Award 🏆)**.
+- *Attention-Guided Frequency and Locality Learning GAN for LACT* — IWAIT/IFMIA 2026.
+- *An Attention-Based Generative Adversarial Network for Limited-Angle CT Reconstruction* — ICCAE 2025 **(Best Presentation Award 🏆)**.
+
+---
+
+### 🔬 Physics-Guided Deep Learning for Inverse Problems
+
+<p style="text-align: justify;">
+A recurring theme across my work is the integration of <strong>forward imaging models</strong> into deep learning pipelines. Rather than treating reconstruction as a black-box mapping, I embed Radon transform-based consistency constraints, frequency-domain priors, and sinogram-domain supervision directly into network training. This physics-AI co-design philosophy improves robustness under distribution shift and enables meaningful generalization beyond the training data.
+</p>
+
+**Representative works:**
+- *PIDA-GAN* — Under Review, 2026.
+- *PCDS-GAN* — IEEE ISBI 2026.
+- *Compressed Sensing-Based Image Reconstruction for Discrete Tomography with Sparse View and Limited Angle Geometries* — PLOS ONE, 2025.
+
+---
+
+### 🔬 Mathematical Methods & Level-Set Tomography
+
+<p style="text-align: justify;">
+My Ph.D. research introduced <strong>parametric level-set methods</strong> for geometric and binary tomographic reconstruction, where the object to be recovered is represented implicitly as a level set of a smooth parametric function. This framework provides a principled way to incorporate shape priors and handle extreme data sparsity, and forms the mathematical foundation for my broader interest in model-based reconstruction.
+</p>
+
+**Representative works:**
+- *Binary Tomography Reconstruction with Limited-Data by a Convex Level-Set Method* — CMC-Computers, Materials & Continua, 2022.
+- *Compressed Sensing-Based Image Reconstruction for Discrete Tomography* — PLOS ONE, 2025.
+- *Level-Set Method for Limited-Data Reconstruction in CT using Dictionary-Based Compressed Sensing* — ICCAE 2023.
+
+---
+
+## Tools & Frameworks
+
+| Category | Tools |
+|---|---|
+| Deep Learning | PyTorch, GANs, Diffusion Models, Attention Mechanisms |
+| CT & Inverse Problems | ASTRA Toolbox, Torch Radon, FBP, Iterative Reconstruction |
+| Programming | Python, MATLAB, Mathematica |
+| HPC | Distributed training, multi-GPU optimization |
